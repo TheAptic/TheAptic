@@ -20,9 +20,9 @@ Currently open to senior/principal roles in **London** (earth observation, defen
 ## Tech
 
 ```
-Languages   Python · SQL · Bash
+Languages   Python · Rust · SQL · Bash 
 ML/CV       PyTorch · ONNX · TensorRT · OpenCV · Hugging Face · LangChain
-Data        Databricks · Apache Spark · Delta Lake · PostGIS
+Data        Databricks · wandb · Firebase · ArcGIS
 Infra       Docker · GitHub Actions · Linux · CUDA
 ```
 
